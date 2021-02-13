@@ -3,8 +3,6 @@ email:ronniengoda@gmail.com
 website:ronaldngoda.is-best.net
 phone:+254708344101
 
-
-
 ===========ABOUT PROJECT============
 This is an online gate pass management system.With this, management of visitors and activities at the gate of an organisation or institution is absolutely easy.The system has a wide array of interesting features like
 You can register gate guards as the admin who will be managing different gates
@@ -20,4 +18,5 @@ Print reports and any information from the system for further reference
 
 INSTALLATION
 import the gpms_db.sql file into your database named gpms_db and all is done you are set to go...
-login admin/admin
+
+login: admin/12345
