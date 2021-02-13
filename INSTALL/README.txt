@@ -20,3 +20,4 @@ INSTALLATION
 import the gpms_db.sql file into your database named gpms_db and all is done you are set to go...
 
 login: admin/12345
+login: guest/12345
